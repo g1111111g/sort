@@ -1,3 +1,9 @@
+/**
+ * 
+ * 广度优先搜索
+ *
+ *
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdint.h>
